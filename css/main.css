@@ -1,0 +1,39 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+header {
+  background-color: #ddd;
+}
+
+img {
+  max-width: 200px;
+}
+
+.search-icon {
+  left: .3em;
+}
+
+.section-1 {
+  background-color: #efefef;
+}
+
+.section-2 {
+  background-color: #fff;
+}
+
+.nearest {
+  background-color: #fff;
+}
+
+.table-wrapper table {
+  min-width: 45em;
+}
+
+@media only screen and (min-width: 90em) {
+
+  .table-wrapper {
+    overflow: visible;
+  }
+
+}
